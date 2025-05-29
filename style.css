@@ -1,12 +1,14 @@
 .header{
     display: flex;
     justify-content: center;
+    text-align: center;
     background-color: black;
     color: white;
     padding: 0.5rem;
 }
 
 .body{
+    padding: 1.5rem;
     display: flex;
     justify-content: center;
     height: 720px;
@@ -15,6 +17,10 @@
 
 ul{
     list-style: none;
+}
+
+li{
+    padding: 0.5rem;
 }
 
 button{

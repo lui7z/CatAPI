@@ -7,11 +7,17 @@
     padding: 0.5rem;
 }
 
-.body{
+.secfatos{
     padding: 1.5rem;
     display: flex;
     justify-content: center;
-    height: 720px;
+    text-align: center;
+}
+
+.secracas{
+    padding: 1.5rem;
+    display: flex;
+    justify-content: center;
     text-align: center;
 }
 
